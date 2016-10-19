@@ -26,28 +26,28 @@ targets:
   ubuntu-14.04:
   centos-7:
     dependencies:
-      - openssl
-      - libyaml
-      - postgresql
-      - postgresql-libs
-      - postgresql-devel
-      - mariadb-libs
-      - mariadb-devel
-      - readline-devel
-      - ncurses-devel
-      - xz-devel
-      - libxml2-devel
-      - libgpg-error-devel
-      - libgcrypt-devel
-      - libxslt-devel
-      - libevent-devel
-      - sqlite-devel
-      - ImageMagick
-      - ImageMagick-devel
-      - libicu
-      - libuv
-      - npm
-      - nodejs
+      # - openssl
+      # - libyaml
+      # - postgresql
+      # - postgresql-libs
+      # - postgresql-devel
+      # - mariadb-libs
+      # - mariadb-devel
+      # - readline-devel
+      # - ncurses-devel
+      # - xz-devel
+      # - libxml2-devel
+      # - libgpg-error-devel
+      # - libgcrypt-devel
+      # - libxslt-devel
+      # - libevent-devel
+      # - sqlite-devel
+      # - ImageMagick
+      # - ImageMagick-devel
+      # - libicu
+      # - libuv
+      # - npm
+      # - nodejs
     build_dependencies:
       # - openssl
       # - libyaml
